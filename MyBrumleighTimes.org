@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Vehicle List</title>
+</head>
+<body>
+  <h1>Game Vehicles</h1>
+  <ul>
+    <li>BUS-01 – CityRunner</li>
+    <li>BUS-02 – UrbanFlex</li>
+  </ul>
+</body>
+</html>
